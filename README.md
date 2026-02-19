@@ -79,7 +79,7 @@ Built during MERN internship at UpToSkills
 ### 🌐 Portfolio Website
 👉 https://naveenportfolio.in/
 
-(Add GitHub repo links here)
+
 
 ---
 
