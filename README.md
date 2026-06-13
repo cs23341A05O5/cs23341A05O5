@@ -42,43 +42,15 @@
 
 ```javascript
 const naveen = {
-    pronouns: "He/Him",
-    location: "Rajam, Andhra Pradesh 🇮🇳",
+    role: "MERN Stack Developer 🚀",
+    location: "Rajam, India 🇮🇳",
 
-    currentFocus: [
-        "Building Full Stack MERN Applications",
-        "Mastering DSA",
-        "Open Source Contributions"
-    ],
+    learning: ["DSA", "Cloud", "AI"],
+    interests: ["Web Dev", "Problem Solving"],
 
-    learning: [
-        "MERN Stack",
-        "Cloud Computing",
-        "Artificial Intelligence"
-    ],
+    currentProject: "Resume Builder 📄",
 
-    interests: [
-        "Problem Solving",
-        "Web Development",
-        "Open Source"
-    ],
-
-    projects: [
-        "Resume Builder",
-        "Vidhya Disha",
-        "Portfolio Website"
-    ],
-
-    motto: "Code. Learn. Build. Repeat.",
-
-    lifeLoop: function() {
-        while(alive) {
-            learn();
-            code();
-            build();
-            repeat();
-        }
-    }
+    motto: "Code. Learn. Build. Repeat."
 };
 ```
 
