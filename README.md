@@ -36,7 +36,7 @@
 
 <!-- About Me Section -->
 
-<img align="right" alt="Coding" width="400" src="https://kommodo.ai/i/ivtOBOvgVkLmjoKKzv13">
+<img align="right" alt="Coding" width="400" src="./git.gif">
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
