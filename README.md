@@ -108,17 +108,27 @@ const naveen = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cs23341A05O5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cs23341A05O5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=cs23341A05O5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cs23341A05O5&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23341A05O5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23341A05O5&layout=compact&theme=tokyonight&hide_border=true&hide=c" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cs23341A05O5&custom_title=Naveen's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cs23341A05O5&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cs23341A05O5&theme=tokyo-night&hide_border=true" />
 
 </div>
 
