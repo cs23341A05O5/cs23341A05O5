@@ -99,22 +99,41 @@ const naveen = {
 </table>
 
 </div>
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cs23341A05O5&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cs23341A05O5&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23341A05O5&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<h2 align="center">📊 GitHub Statistics</h2>
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cs23341A05O5&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23341A05O5&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=cs23341A05O5&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/cs23341A05O5/cs23341A05O5/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/cs23341A05O5/cs23341A05O5/output/github-snake.svg" />
+  <img width="95%" alt="github-snake"
+    src="https://raw.githubusercontent.com/cs23341A05O5/cs23341A05O5/output/github-snake.svg" />
+</picture>
+
+</div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
