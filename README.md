@@ -102,8 +102,7 @@ const naveen = {
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- GitHub Stats Section -->
+<!-- GitHub Statistics -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
@@ -120,18 +119,9 @@ const naveen = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs23341A05O5&layout=compact&theme=tokyonight&hide_border=true&hide=c" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cs23341A05O5&theme=tokyonight" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=cs23341A05O5&custom_title=Naveen's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=cs23341A05O5&theme=tokyo-night&hide_border=true" />
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
